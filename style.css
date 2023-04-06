@@ -10,11 +10,26 @@ body{
     align-items: center;
     margin: 0 auto;
 }
+h2{
+    padding: 0;
+    margin: 5px;
+    letter-spacing: 2px;
+}
+#l{
+    background: #5DA3FA;
+    /* padding: 4px; */
+    display: inline-block;
+    border-radius: 3px;
+    height: 35px;
+    width: 30px;
+    margin-right: 3px;
+    text-align: center;
+}
 #tbl{
     border: 1px solid black;
     border-collapse: collapse;
     width: 100%;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 td{
