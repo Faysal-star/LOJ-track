@@ -18,7 +18,7 @@ for(let i = 0 ; i < handles.length ; i++){
 
         document.getElementById("tbl").innerHTML += `
             <tr>
-                <td>${name} ( <a href=${url} target="_blank">${handles[i]}</a> ) </td>
+                <td>${name} (<a href=${url} target="_blank">${handles[i]}</a>) </td>
                 <td> ${count} </td>
             </tr>
         `
