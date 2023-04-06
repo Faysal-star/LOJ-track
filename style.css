@@ -1,0 +1,35 @@
+body{
+    background-color: #242B2E;
+    color: white;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+#tbl{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th{
+    background-color: #5DA3FA;
+    border: 1px solid black;
+    padding: 10px;  
+}
+
+a{
+    color: rgb(172, 224, 255);
+    text-decoration: none;
+}
