@@ -1,4 +1,4 @@
-let handles = ["dragoon_slayer" , "masked_pi" , "hafizr283" , "ashsifat1511" , "taut0logy" , "vallagenakisu" , "n8_hawk" , "apn7","mofazzal874" , "another_ded_girl" , "smsadik82"] ;
+let handles = ["dragoon_slayer" , "masked_pi" , "hafizr283" , "ashsifat1511" , "taut0logy" , "vallagenakisu" , "n8_hawk" , "apn7","mofazzal874" , "another_ded_girl" , "smsadik82" , "who_cares"] ;
 
 for(let i = 0 ; i < handles.length ; i++){
     let xhr = new XMLHttpRequest() ;
