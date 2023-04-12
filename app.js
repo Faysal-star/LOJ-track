@@ -1,4 +1,4 @@
-let handles = ["dragoon_slayer" , "masked_pi" , "hafizr283" , "ashsifat1511" , "taut0logy" , "vallagenakisu" , "n8_hawk" , "apn7","mofazzal874" , "another_ded_girl" , "smsadik82" , "who_cares" , "uf61021", "rifat_15" , "faiyaz27" , "nafis_75" , "safin07" , "maria_joli" , "sujoy28" , "tasfia_007" , "return_0" , "nafiulhasan041" , "cameron_fluke2"] ;
+let handles = ["dragoon_slayer" , "masked_pi" , "hafizr283" , "ashsifat1511" , "taut0logy" , "vallagenakisu" , "n8_hawk" , "apn7","mofazzal874" , "another_ded_girl" , "smsadik82" , "who_cares" , "uf61021", "rifat_15" , "faiyaz27" , "nafis_75" , "safin07" , "maria_joli" , "sujoy28" , "tasfia_007" , "return_0" , "nafiulhasan041" , "cameron_fluke2" , "forhad_islam"] ;
 let ii = 1 ;
 for(let i = 0  ; i < handles.length ; i++){
     let xhr = new XMLHttpRequest() ;
